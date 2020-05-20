@@ -1,0 +1,4 @@
+-- Signup : http://127.0.0.1:8000/users/
+-- Signin : http://127.0.0.1:8000/users/login/
+-- Singout: http://127.0.0.1:8000/users/logout/
+-- Home   : http://127.0.0.1:8000/home/
